@@ -125,4 +125,3 @@ TEST:
     SYNC_GATHER: True      # turn on will slow down the evaluation to solve the sgdet test out of memory problem
     REQUIRE_OVERLAP: False
     LATER_NMS_PREDICTION_THRES: 0.5
-
